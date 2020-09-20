@@ -1,0 +1,8 @@
+Feasable idea: 
+
+An application to track packages in the dorms and academic departments. The dorms previously used a laminated paper system where the deskie would fill out a package slip when a package arrived for a resident and log it in a spread sheet. The resident would turn in the package slip to the deskie to claim their package. The deskie would then have to find the entry in the spreadsheet and mark it as picked up. This year, package slips have been eliminated, but a MS Form now has to be filled out which then sends an email to the resident that their package has arrived.
+My idea is to create a mobile app that presents the deskie with two simple options: login package and logout package. The app will ask the deskie for information about the package and create a database entry for it. An ID number for the package will be generated and an alert will be sent to the resident. When a resident comes to pick up the package, the deskie will just select logout and enter the package ID number.
+
+Fun/wacky idea:
+
+Some sort of online game or activity for dorms to compete in virtually to help build community even when we can't host large events. Something like a virtual chaos night would be really cool where dorms could send teams to compete in different activities.
