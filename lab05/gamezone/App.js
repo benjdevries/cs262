@@ -16,15 +16,15 @@ export default function App() {
 
   if (fontsLoaded) {
     return (
-        <NavigationContainer>
-            <Navigator />
-        </NavigationContainer>
+      <NavigationContainer>
+        <Navigator />
+      </NavigationContainer>
     );
   } else {
     return (
-      <AppLoading 
-        startAsync={getFonts} 
-        onFinish={() => setFontsLoaded(true)} 
+      <AppLoading
+        startAsync={getFonts}
+        onFinish={() => setFontsLoaded(true)}
       />
     )
   }
